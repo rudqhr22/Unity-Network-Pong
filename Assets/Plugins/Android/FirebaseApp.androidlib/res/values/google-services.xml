@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">80856272912</string>
+  <string name="google_storage_bucket" translatable="false">unity-pong-sample-c3195.appspot.com</string>
+  <string name="project_id" translatable="false">unity-pong-sample-c3195</string>
+  <string name="google_api_key" translatable="false">AIzaSyB0tGPbfOx80UxaNSrHeUHv2jXBC1aVq1I</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0tGPbfOx80UxaNSrHeUHv2jXBC1aVq1I</string>
+  <string name="google_app_id" translatable="false">1:80856272912:android:642b5edb633cf3ef2bba95</string>
+  <string name="default_android_client_id" translatable="false">80856272912-1rr2tm9be37p1f4id5i80r1j012dvk31.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">80856272912-c0eh5m976a7g9tqcin14f9seareov42h.apps.googleusercontent.com</string>
+</resources>

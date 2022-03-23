@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "80856272912",
+    "project_id": "unity-pong-sample-c3195",
+    "storage_bucket": "unity-pong-sample-c3195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80856272912:android:642b5edb633cf3ef2bba95",
+        "android_client_info": {
+          "package_name": "com.kkb.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80856272912-1rr2tm9be37p1f4id5i80r1j012dvk31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kkb.firebase",
+            "certificate_hash": "46070f3631eb466d3416d5dc870d1c92e5e7d6ac"
+          }
+        },
+        {
+          "client_id": "80856272912-c0eh5m976a7g9tqcin14f9seareov42h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tGPbfOx80UxaNSrHeUHv2jXBC1aVq1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80856272912-c0eh5m976a7g9tqcin14f9seareov42h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80856272912-6e696p7at6a27q2k4phe9tm9lod8njol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kkb.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
